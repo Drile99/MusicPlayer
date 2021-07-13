@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Music Player</string>
+
+    <string name="title">Music Player</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="youtube">Youtube</string>
+    <string name="radio_app">Radio</string>
+    <string name="about">About</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="about_text">Music Player is an application to play mp3 music and radio on your android device. Also you directly can go to Youtube and
+        listen more other music. With simple interface make you enjoy the music
+        easily.
+    </string>
+    <string name="ok">OK</string>
+    <string name="start_time">0.00</string>
+    <string name="final_time">0.00</string>
+    <string name="search_hint">Song Name</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete">Delete</string>
+    <string name="delete_text"> Are you sure you want to delete</string>
+    <string name="play_next">Play Next</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- <string name="app_name">Radio</string> -->
+
+    <string name="action_settings">Configuration</string>
+
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+
+    <string name="timer_info" formatted="false">%02d:%02d:%02d</string>
+    <string name="start">démarrer</string>
+    <string name="cancel">annuler</string>
+    <string name="continuer">continuer</string>
+    <string name="cancel_timer">annuler le timer</string>
+    <string name="impossible">0 impossible</string>
+
+
+    <string name="heure_singulier">heure</string>
+    <string name="heure_pluriel">heures</string>
+
+    <string name="minute_singulier">minute</string>
+    <string name="minute_pluriel">minutes</string>
+
+    <string name="arret">Arrêt dans</string>
+    <string name="et">et</string>
+
+    <string name="stop_timer">Timer arrêté</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="radio_text">Rock Radio Beograd</string>
+</resources>
