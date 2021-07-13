@@ -27,10 +27,10 @@ import com.example.musicplayerproject.R;
 
 
 import java.util.ArrayList;
-
+//nasledjuje listu fragmenta
 public class AllSongFragment extends ListFragment
 {
-    //Deklarisanje promenljive Contet redolver koja sluzi za prikazivanje kolona direktno u fragmentu
+    //Deklarisanje promenljive Contet redolver  koja sluzi za prikazivanje kolona direktno u fragmentu
     private static ContentResolver contentResolver1;
     //Deklarisanje array liste
     public ArrayList<SongsList> songsList;
